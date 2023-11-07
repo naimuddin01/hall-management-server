@@ -5,7 +5,7 @@ Provide step-by-step instructions on how to install and set up your project. Inc
 
 **Clone the Repository**
 ```bash
-https://github.com/naimuddin01/bistro-boss-server.git
+https://github.com/naimuddin01/hall-management-server.git
 ```
 
 **Install project dependencies:**
