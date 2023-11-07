@@ -27,6 +27,5 @@ Explain how to set up the necessary configuration, especially the .env file.
     DB_PASS=your-mongoBD-project-PASS
     MONGODB_URI=your_mongodb_connection_string
     Access_TOKEN_SECRET=your_secret_key
-    PAYMENT_SECRET_KEY=your-stripe-SECRET_KEY
    ```
     
